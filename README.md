@@ -1,1 +1,1 @@
-`Start your React/Tailwindcss projects with ease`
+`Start your React/Tailwindcss projects with ease 😉`
